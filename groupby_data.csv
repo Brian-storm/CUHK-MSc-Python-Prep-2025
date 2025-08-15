@@ -1,0 +1,25 @@
+company_name,dept_id,dept_name,employee_id,employee_name,position,salary,hire_date,email,is_manager
+"Doyle LLC",D1,Engineering,E1,Steven Hayes,Software engineer,87653.21,2021-03-15,steven.hayes@example.com,False
+"Doyle LLC",D1,Engineering,E2,Amanda Smith,Engineering manager,115432.89,2019-11-02,amanda.smith@example.com,True
+"Doyle LLC",D1,Engineering,E3,Michael Brown,QA engineer,75432.10,2022-01-18,michael.brown@example.com,False
+"Doyle LLC",D2,Marketing,E1,Jennifer Lee,Marketing specialist,65321.45,2020-05-22,jennifer.lee@example.com,False
+"Doyle LLC",D2,Marketing,E2,Robert Taylor,Digital marketer,71245.30,2021-08-14,robert.taylor@example.com,False
+"Doyle LLC",D3,Finance,E1,Sarah Johnson,Financial analyst,82456.75,2018-09-05,sarah.johnson@example.com,True
+"Doyle LLC",D3,Finance,E1,Chris Wong,Financial analyst,68258.25,2021-03-18,chris.wong@example.com,False
+"TechNova Inc",D1,Engineering,E1,David Wilson,Senior developer,98210.50,2020-07-22,david.wilson@example.com,False
+"TechNova Inc",D1,Engineering,E2,Emily Chen,CTO,145230.00,2017-04-11,emily.chen@example.com,True
+"TechNova Inc",D1,Engineering,E3,Jason Miller,DevOps engineer,89120.25,2021-11-30,jason.miller@example.com,False
+"TechNova Inc",D2,Sales,E1,Olivia Davis,Sales executive,68745.90,2022-02-18,olivia.davis@example.com,False
+"TechNova Inc",D2,Sales,E2,Daniel Martin,Sales manager,93456.80,2019-06-27,daniel.martin@example.com,True
+"TechNova Inc",D3,HR,E1,Sophia Wilson,HR specialist,76543.20,2020-09-15,sophia.wilson@example.com,False
+"Global Solutions",D1,Operations,E1,William Anderson,Operations manager,102345.60,2018-12-03,william.anderson@example.com,True
+"Global Solutions",D1,Operations,E2,Emma Thomas,Logistics coordinator,72345.15,2021-05-19,emma.thomas@example.com,False
+"Global Solutions",D2,IT,E1,James White,System administrator,81234.45,2020-03-10,james.white@example.com,False
+"Global Solutions",D2,IT,E2,Charlotte Lee,IT director,118765.30,2017-11-21,charlotte.lee@example.com,True
+"Global Solutions",D3,Finance,E1,Ethan Harris,Accountant,78456.90,2019-08-07,ethan.harris@example.com,False
+"Global Solutions",D3,Finance,E2,Ava Clark,CFO,132456.75,2016-05-14,ava.clark@example.com,True
+"Summit Enterprises",D1,Engineering,E1,Noah Rodriguez,Frontend developer,85320.40,2021-04-25,noah.rodriguez@example.com,False
+"Summit Enterprises",D1,Engineering,E2,Mia Lewis,Backend developer,87654.35,2020-10-11,mia.lewis@example.com,False
+"Summit Enterprises",D1,Engineering,E3,Lucas Walker,Engineering lead,104567.80,2019-07-08,lucas.walker@example.com,True
+"Summit Enterprises",D2,Marketing,E1,Harper Hall,Content strategist,72345.60,2022-01-05,harper.hall@example.com,False
+"Summit Enterprises",D3,HR,E1,Benjamin Young,Recruiter,68456.25,2021-09-17,benjamin.young@example.com,False
